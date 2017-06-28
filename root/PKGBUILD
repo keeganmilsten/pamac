@@ -1,6 +1,6 @@
 # Contributor: Zeph <zeph33@gmail.com>
 # Maintainer: Zeph <zeph33@gmail.com>
-pkgname=pamac-aur
+pkgname=pamac
 pkgver=4.3.7
 _pkgver=4.3.7
 pkgrel=1
