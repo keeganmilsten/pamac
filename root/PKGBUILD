@@ -32,7 +32,6 @@ prepare() {
 
 build() {
   cd "$srcdir/pamac-$_pkgver"
-  ./configure --prefix=/usr
   # build
   make all
 }
